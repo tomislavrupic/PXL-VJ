@@ -1,0 +1,14 @@
+{
+  "version": "0.3.0",
+  "build": 6,
+  "platform": "macOS",
+  "architecture": "arm64",
+  "minimumOS": "14.0",
+  "notarized": true,
+  "gatekeeper": "accepted",
+  "ticketStapled": true,
+  "bytes": 4312752,
+  "sha256": "ec21968e7028f6e11301870c86453d9c84b08331ac1e22caa049d73044bf3d9a",
+  "sourceSHA256": "09f28b87c5788e699f1d56059a0bb941840a2a6ce68dee590a2c6fa5da1ad8cb",
+  "notarySubmission": "a85690d0-a84e-4c7f-9049-3b04e4b3b184"
+}

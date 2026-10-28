@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tomislavrupic.github.io/PXL-VJ/sitemap.xml
